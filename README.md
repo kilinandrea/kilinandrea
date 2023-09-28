@@ -22,6 +22,8 @@ Senior communications, social media lead @Cytiva
 Communication - Digital marketing - Branding - SQL - Tableau - Excel - PowerBI - Looker Studio
 
 ### Projects
+Marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
+
 Visualizations in Tableau:
 
 1. [Relationship between time spent and amount spent on an ecommerce site: advertising campaign vs organic traffic](https://public.tableau.com/views/M4S2-CampaignsvsnotcampaignTimespentversusamountspent/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
