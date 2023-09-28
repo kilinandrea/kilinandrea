@@ -21,7 +21,7 @@ Senior communications, social media lead @Cytiva
 ### Skills
 Communication - Digital marketing - Branding - SQL - Tableau - Excel
 ### Learning next
-PowerBI - Looker Studio - Python and :panda: 
+PowerBI - Looker Studio - Python and :panda_face: 
 
 ### Data Analysis Projects
 Full marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
