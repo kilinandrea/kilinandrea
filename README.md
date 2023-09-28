@@ -19,9 +19,11 @@ Senior communications, social media lead @Cytiva
 - I transformed our social media content strategy, focusing on data-driven approaches. Leading a team of four, I developed and executed strategies that leveraged data for more engaging content, benchmark-beating CPC, CPM and ROAS.
 
 ### Skills
-Communication - Digital marketing - Branding - SQL - Tableau - Excel - PowerBI - Looker Studio
+Communication - Digital marketing - Branding - SQL - Tableau - Excel
+### Learning next
+PowerBI - Looker Studio - Python and :panda: 
 
-### Projects
+### Data Analysis Projects
 Full marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
 
 Other visualizations in Tableau:
