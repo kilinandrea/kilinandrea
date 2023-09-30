@@ -2,8 +2,8 @@
 I am Andrea Kilin and my pronouns are she/her.
 
 - 🌱 I’m currently re-reading two of my favorite books:
-  :book: Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues, and
-  :book:  Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
+  -  :book: Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues, and
+  -  :book:  Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
 - 💬 Ask me about data analysis, branding, performance marketing, social media marketing.
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/kilinandrea/)
 
