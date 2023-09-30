@@ -27,11 +27,11 @@ PowerBI - Looker Studio - Python and :panda_face:
 
 ### Data Analysis Projects
 **Marketing Analysis**: 
-A marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
+A marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce. [Find repo here.](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
 
 **Product Analysis**:
 A product analysis project to identify how much time it takes for a user to make a purchase on our website, to analyse a specfic subset of customers' time spent in the purchase funnel.
-[Find the repo here](https://github.com/kilinandrea/product_analysis_project/blob/main/README.md)
+[Find the repo here.](https://github.com/kilinandrea/product_analysis_project/blob/main/README.md)
 
 **Risk/Monetary Analysis**:
  *coming soon* 
