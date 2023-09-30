@@ -2,7 +2,7 @@
 I am Andrea Kilin and my pronouns are she/her.
 
 - 🌱 I’m currently re-reading two of my favorite books: :book: Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues, and :book:  Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
-- 💬 Ask me about branding, performance marketing, social media marketing.
+- 💬 Ask me about data analysis, branding, performance marketing, social media marketing.
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/kilinandrea/)
 
 And now onto more professional facts about me -->
@@ -24,9 +24,17 @@ Communication - Digital marketing - Branding - SQL - Tableau - Excel
 PowerBI - Looker Studio - Python and :panda_face: 
 
 ### Data Analysis Projects
-Full marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
+**Marketing Analysis**: 
+A marketing project on Google Shop where I investigate relationship between time spent on the website and amount spent in ecommerce - [find repo here](https://github.com/kilinandrea/marketing_project_google_shop/blob/main/README.md)
 
-Other visualizations in Tableau:
+**Product Analysis**:
+A product analysis project to identify how much time it takes for a user to make a purchase on our website, to analyse a specfic subset of customers' time spent in the purchase funnel.
+[Find the repo here](https://github.com/kilinandrea/product_analysis_project/blob/main/README.md)
+
+**Risk/Monetary Analysis**:
+ *coming soon* 
+
+**Other visualizations in Tableau**:
 
 1. [Relationship between time spent and amount spent on an ecommerce site: advertising campaign vs organic traffic](https://public.tableau.com/views/M4S2-CampaignsvsnotcampaignTimespentversusamountspent/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 2. [Relationship between revenue, time spent and device used on an ecommerce site](https://public.tableau.com/views/M4S1-Graded-AK/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
