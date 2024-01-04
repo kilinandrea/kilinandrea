@@ -1,10 +1,8 @@
 ### Hi there 👋
 I am Andrea Kilin and my pronouns are she/her.
 
-- 🌱 I’m currently re-reading two of my favorite books:
-  -  :book: Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues, and
-  -  :book:  Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
-- 💬 Ask me about data analysis, branding, performance marketing, social media marketing.
+- 🌱 I’m currently practicing data analysis in Python - see my projects [FDA applications 1998-2023](https://github.com/kilinandrea/FDA_Applications_1998-2023/blob/main/FDA_applications_1998_2023.ipynb) and [FDA recalls](https://github.com/kilinandrea/FDA_recall_project/blob/main/Python_Exam_FDA_Recall.ipynb)
+  
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/kilinandrea/)
 
 And now onto more professional facts about me -->
@@ -12,18 +10,16 @@ And now onto more professional facts about me -->
 ### Education
 02.2023 - 11.2023 -- Turing College: Data Analytics, Full Scholarship (Top 5%)
 
-09.2021 - 12.2021 -- Mark Ritson: miniMBA in Marketing
+2021 - 2022 -- Mark Ritson: miniMBA in Marketing and Branding
 
-09.2014 - 07.2016 -- Uppsala University: MBA, Business Administration in a Global Society 
+2014 - 2016 -- Uppsala University: MBA, Business Administration in a Global Society 
 
 ### Recent Work Experience
 Senior communications, social media lead @Cytiva
 - I transformed our social media content strategy, focusing on data-driven approaches. Leading a team of four, I developed and executed strategies that leveraged data for more engaging content, benchmark-beating CPC, CPM and ROAS.
 
 ### Skills
-Communication - Digital marketing - Branding - SQL - Tableau - Excel
-### Learning next
-PowerBI - Looker Studio - Python and :panda_face: 
+Communication - Digital marketing - Branding - SQL - Tableau - Excel - PowerBI - Looker Studio - Python and :panda_face: 
 
 ### Data Analysis Projects
 **Marketing Analysis**: 
