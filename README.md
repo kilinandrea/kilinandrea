@@ -11,7 +11,7 @@ I am Andrea Kilin and my pronouns are she/her.
 And now onto more professional facts about me -->
 
 ### Education
-02.2023 - 11.2023 -- Turing College: Data Analytics, Full Scholarship (Top 5%)
+2023 - 2024 -- Turing College: Data Analytics, Full Scholarship (Top 5%)
 
 2021 - 2022 -- Mark Ritson: miniMBA in Marketing and Branding
 
