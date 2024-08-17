@@ -4,8 +4,7 @@ I am Andrea Kilin and my pronouns are she/her.
 - 🌱 I’m currently practicing data analysis in Python and building dashboards in Tableau - see my projects:
 1. [Tableau vizzes](https://public.tableau.com/app/profile/andrea.kilin/vizzes)
 2. [Optimization of Chromatography Resins for Monoclonal Antibody Purification](https://github.com/kilinandrea/mock_mabs)
-3. [FDA applications 1998-2023](https://github.com/kilinandrea/FDA_Applications_1998-2023/blob/main/FDA_applications_1998_2023.ipynb) 
-4. [FDA recalls](https://github.com/kilinandrea/FDA_recall_project/blob/main/Python_Exam_FDA_Recall.ipynb)
+3. [FDA applications 1998-2023](https://github.com/kilinandrea/FDA_Applications_1998-2023/blob/main/FDA_applications_1998_2023.ipynb) and [FDA recalls](https://github.com/kilinandrea/FDA_recall_project/blob/main/Python_Exam_FDA_Recall.ipynb)
   
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/kilinandrea/)
 
